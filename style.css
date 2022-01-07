@@ -1,0 +1,17 @@
+           
+          
+           p{
+               color: rgb(245, 199, 16);
+               border: dotted;
+               text-align: center;
+           }
+
+           .header{
+            background-color: aqua;
+            text-shadow: 1px 1px #ff0000;
+            border: dotted;
+           }
+
+           .menue{
+               border: double;
+           }
